@@ -1,5 +1,13 @@
-<user>
-	<first_name>Tamila</first_name>
-	<last_name>Mar</last_name>
-	<age>25</age>
-</user>
+<users>
+	<user>
+		<first_name>Tamila</first_name>
+		<last_name>Mar</last_name>
+		<age>25</age>
+	</user>
+
+	<user>
+		<first_name>Mykola</first_name>
+		<last_name>Suh</last_name>
+		<age>24</age>
+	</user>
+</users>
