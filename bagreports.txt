@@ -1,0 +1,2 @@
+1) Summary. Product. Platform. Status. Priority. Severity. Preconditions. Steps to reproduce. Actual result. Expected result. Attachments.
+
